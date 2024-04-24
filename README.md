@@ -5,7 +5,7 @@
 1. リポジトリをクローンします:
 
     ```bash
-    git clone https://mads.backlog.com/git/MONOLITHSDEV/slogan_checker.git
+    git clone https://github.com/teraoyuta/slogan_checker.git
     ```
 
 2. docker-compose.ymlが存在するディレクトリに移動します:
